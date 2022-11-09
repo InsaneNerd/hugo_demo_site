@@ -1,12 +1,12 @@
 baseURL: "https://merry-croquembouche-b1471e.netlify.app/"
 languageCode: en-us
-title: My New Hugo Site
+title: PMS
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Hello Stranger"
-    Content: Welcome to my blog. Here you'll find my site contents
+    Title: "Property Management System"
+    Content: Welcome to PMS, Enjoy Easy Management of Property
 
   socialIcons:
     - name: Facebook
